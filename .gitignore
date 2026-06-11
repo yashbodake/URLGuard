@@ -1,12 +1,3 @@
-# data/raw/ contains downloaded datasets (too large for git)
-data/raw/
-
-# data/processed/ contains feature matrices (generated, not versioned)
-data/processed/
-
-# data/model/ contains trained model artifacts (generated, not versioned)
-data/model/
-
 # Python
 __pycache__/
 *.py[cod]
